@@ -1,0 +1,13 @@
+.square {
+  width: 70px;
+  height: 70px;
+  cursor: pointer; /* Добавим указатель для курсора, чтобы показать, что квадраты можно кликать */
+}
+
+.square.red {
+  background-color: #f00;
+}
+
+.square.blue {
+  background-color: #00f;
+}
